@@ -1,3 +1,3 @@
 df.info()   
-#can be used to check non null values and datatypes of column and name and number of columns
+#can be used to check number of non-null values and datatypes of columns and name and number of columns/rows.
 
